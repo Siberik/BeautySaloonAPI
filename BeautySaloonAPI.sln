@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySaloonAPI", "BeautySaloonAPI.csproj", "{580EEE33-B04D-45D0-835F-103661F2F222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580EEE33-B04D-45D0-835F-103661F2F222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580EEE33-B04D-45D0-835F-103661F2F222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580EEE33-B04D-45D0-835F-103661F2F222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580EEE33-B04D-45D0-835F-103661F2F222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90DA7B6B-B7EF-47B9-9A96-4D0B09ACBAA9}
+	EndGlobalSection
+EndGlobal
