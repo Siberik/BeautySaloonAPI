@@ -9,7 +9,7 @@ namespace BeautySaloonAPI.Models
 {
     public partial class Users
     {
-        public int? Idrole { get; set; }
+        public int Idrole { get; set; }
         public string UserName { get; set; }
         public string UserLastName { get; set; }
         public string UserOtherName { get; set; }
