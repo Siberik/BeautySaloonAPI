@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySaloonAPI", "BeautySaloonAPI.csproj", "{580EEE33-B04D-45D0-835F-103661F2F222}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{FFD1BDCB-5B47-4AFC-AC5C-70B7894FA957}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\vladScripts.sql = ..\..\..\..\Downloads\vladScripts.sql
+		..\..\..\..\Desktop\Салон_красоты.pdf = ..\..\..\..\Desktop\Салон_красоты.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
