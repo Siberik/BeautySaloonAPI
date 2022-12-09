@@ -7,9 +7,9 @@ using System.Collections.Generic;
 
 namespace BeautySaloonAPI.Models
 {
-    public partial class Services
+    public  partial  class Services
     {
-        public Services()
+        public  Services()
         {
             ClientServices = new HashSet<ClientServices>();
             ServicePhotos = new HashSet<ServicePhotos>();
